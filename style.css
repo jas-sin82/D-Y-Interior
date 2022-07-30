@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("/images/photo-1.avif");
+  background-image: url("images/photo-1.avif");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -19,7 +19,7 @@ body {
 header {
   width: 100vw;
   height: 180px;
-  background-image: url("/images/photo-8.avif");
+  background-image: url("images/photo-8.avif");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ li a:hover {
   align-items: center;
   margin-top: 0px;
   margin-bottom: 50px;
-  background-image: url("/images/photo-8.avif");
+  background-image: url("images/photo-8.avif");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -190,7 +190,7 @@ li a:hover {
   align-items: center;
   margin-top: 0px;
   justify-content: center;
-  background-image: url("/images/photo-15.avif");
+  background-image: url("images/photo-15.avif");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -248,7 +248,7 @@ li a:hover {
     max-height: 100%;
     align-items: center;
     justify-content: center;
-    background-image: url("/images/photo-8.avif");
+    background-image: url("images/photo-8.avif");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -344,7 +344,7 @@ li a:hover {
     align-items: center;
     margin-top: 0px;
     justify-content: center;
-    background-image: url("/images/photo-15.avif");
+    background-image: url("images/photo-15.avif");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
